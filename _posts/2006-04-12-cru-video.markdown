@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 261
+layout: post
+title: CRU Video
+wordpress_url: http://jevy.org/?p=261
+---
+So, I didn't know how to convert a WMV to AVI file so I let google do the work for me!
+
+Google is <a href="http://video.google.com/videoplay?docid=5825135006021823243">pretty slick</a>.

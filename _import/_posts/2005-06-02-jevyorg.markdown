@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 80
+layout: post
+title: Jevy.org
+wordpress_url: http://jevy.org/?p=80
+---
+I do believe that <a href="http://tinyurl.com/dwveu">Strathcone Park</a> is amoung the nicest in the city by far.  I had a nice bike ride around Sandy Hill exploring the area.
+
+I want to play ultimate really badly on Saturday somewhere and with whoever.  Let me know.
+
+<div class="flickr-insert"><a href="http://www.flickr.com/photos/jevy/17174265/" rel="bookmark" target="_blank" title="leaves viewing glass"><img src="http://jevy.org/wp-content/plugins/flickr-insert/17174265_eb7cb48771_s.jpg" alt="leaves viewing glass"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/17174274/" rel="bookmark" target="_blank" title="strathcona"><img src="http://jevy.org/wp-content/plugins/flickr-insert/17174274_227eccc5d6_s.jpg" alt="strathcona"/></a></div>

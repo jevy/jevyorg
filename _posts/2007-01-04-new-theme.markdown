@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 396
+layout: post
+title: New Theme
+wordpress_url: http://jevy.org/?p=396
+---
+Sooooo.  It shouldn't surprise anyone that my theme ADD has gotten the best of me.  This theme looks sweet and I'm pretty sure it's quite polished.  Sweet!

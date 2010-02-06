@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 155
+layout: post
+title: Lovin&#8217; It
+wordpress_url: http://jevy.org/?p=155
+---
+Who says the Backstreet Boys are dead?  Alive and well in Asian circles..
+<center><a href="http://video.google.com/videoplay?docid=-6739710473912337648"><img src="http://jevy.org/random/wp/bsbsina.jpg" width="250" height="179" alt="" title="" /></a></center>
+.. my favorite is the guy in the background playing computer games unfazed by the whole thing.  Thanks boingboing!

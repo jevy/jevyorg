@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 307
+layout: post
+title: TGIF
+wordpress_url: http://jevy.org/?p=307
+---
+Holla! It's Friday!  Time to simply <a href="http://www.vimeo.com/clip:44877#">love life</a>.

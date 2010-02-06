@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 154
+layout: post
+title: Midterms
+wordpress_url: http://jevy.org/?p=154
+---
+Here we go.  Somehow venting about how busy things are getting helps.  I'm not looking for sympathy, really I'm not:
+
+Thursday: Automatic Control Midterm
+Monday:  Operating Systems Midterm
+Tuesday: Quantum Mechanics Midterm
+Wednesday: UML Midterm
+
+So you all in a week!

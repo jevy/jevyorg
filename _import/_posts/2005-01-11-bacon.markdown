@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 10
+layout: post
+title: BACON!!
+wordpress_url: http://jevy.org/?p=10
+---
+Not: <img src="http://images.google.ca/images?q=tbn:TMBDxv1W3NIJ:http://www.cnn.com/SHOWBIZ/9610/25/kevin.bacon.game/bacon.lrg.jpg" alt="Kevin Bacon" />... BACON! <img src="http://images.google.ca/images?q=tbn:EgYyFeK9m3gJ:http://www.chigwell-school.org/activities/outdoor/scouts/assets/images/bacon.jpeg" alt="Bacon" />
+
+The cooking site I read often: Cooking for Engineers (yes I know everything in my life best be engineering related, even cooking) where the host Mike tries to tackle that tough question about how to properly cook bacon.  Check it out <a href="http://www.cookingforengineers.com/article.php?id=3">here</a>.

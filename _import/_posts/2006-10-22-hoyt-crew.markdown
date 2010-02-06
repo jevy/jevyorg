@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 334
+layout: post
+title: Hoyt Crew
+wordpress_url: http://jevy.org/?p=334
+---
+I'm sure you guys have seen this before as it's old.  It's probably one of the most inspiring video I've ever seen:
+
+<a href="http://youtube.com/watch?v=D52rJd9GX10">Team Hoyt</a>

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 337
+layout: post
+title: New Site
+wordpress_url: http://jevy.org/?p=337
+---
+Well folks!  I spent a month working on a new site and decided to scrap it since I found this killer theme!  I modified it some and probably will tweak it some more.  But <a href="http://jevy.org">here</a> it is!  What do y'all think?

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 426
+layout: post
+title: Speedbag?
+wordpress_url: http://jevy.org/?p=426
+---
+I think I'd like to buy a <a href="http://www.wikihow.com/Punch-a-Speed-Bag">speedbag</a>.  It seems simple enough to use.  Maybe it would beef me up!
+
+Look at me!  I'm Rocky!

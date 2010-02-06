@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 447
+layout: post
+title: This is it!
+wordpress_url: http://jevy.org/?p=447
+---
+22 hours and I'll be done like dinner.  Time to rip up Professional Practice.  AIIEEEEEE!!!

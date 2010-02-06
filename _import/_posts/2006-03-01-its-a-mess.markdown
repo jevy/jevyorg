@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 235
+layout: post
+title: It&#8217;s a mess
+wordpress_url: http://jevy.org/?p=235
+---
+<a class="imagelink" title="My Messy Desktop" onclick="doPopup(267);return false;" href="http://jevy.org/wp-content/uploads/2006/03/Messy%20Desktop.jpg"><img width="128" height="96" class="alignright" id="image267" alt="My Messy Desktop" src="http://jevy.org/wp-content/uploads/2006/03/Messy%20Desktop.thumbnail.jpg" /></a>Life right now is bonkers.  If you don't believe me, check out my not so tidy (anymore) desktop.  Maybe I'll have time to clean 'er up on the weekend.
+
+I wonder if most people really feel like they don't have things in place.  I mean, I can deal with the openendedness (is that a word?) but it's just having things hanging over my head (either good or bad) that really add to well.. this tension in my neck.

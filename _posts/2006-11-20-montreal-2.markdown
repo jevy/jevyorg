@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 358
+layout: post
+title: Montreal
+wordpress_url: http://jevy.org/?p=358
+---
+<center><img alt="Spanish" id="image410" src="http://jevy.org/wp-content/uploads/2006/11/dsc_0353.jpg" /></center>Just got back from a relaxing weekend in Montreal to see a bunch of friends.  It's so great to be able to just grab a bus and get away for a couple of days.
+<ul>
+	<li>Checked out the 30th anniversary celebration service at my friend's church.  The best part?  I understood _nothing_!  It was all in Spanish.  ha!  Knowing french, it's not too hard to pick up on similar words and put it all together to get the gist of things.</li>
+	<li>Hit up this sweet lounge called Vinyl on Friday night.  They were playing some weird hip-hop initially then moved to some sweet mashups of old songs with new beats (think a remixed Dance Mix '93) then to good 'ol house music.  Then it got really crowded so it was time to head out.</li>
+	<li>Managed not to get sick despite a bunch of us were.</li>
+	<li>Bought some pants?  That's good but I'm not sure if it's blog worthy.</li>
+	<li>Didn't use my camera enough.</li>
+</ul>

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 315
+layout: post
+title: My US?
+wordpress_url: http://jevy.org/?p=315
+---
+If I got <a href="http://www.myus.com/">this</a> US shipping mailbox, would people be interested in using it?  I'd charge you the actual price that I'm charged plus a bit.

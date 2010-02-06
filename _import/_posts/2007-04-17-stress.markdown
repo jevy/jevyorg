@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 440
+layout: post
+title: Stress
+wordpress_url: http://jevy.org/?p=440
+---
+So I'm still not totally better at all.  I'm still pretty tired and can sleep 9 hours a night.  In the past month, four independent sources (a doctor, pharmasist, nurse and a lady who used to be really sick) all said that stress is a leading cause of people getting ill.  Now, I don't see myself as a really stressed out guy.  In reality though, I haven't had a break in two years.  By break I mean doing _nothing_.
+
+Recently, all I've wanted to do is play video games.  I was almost feeling guilty about this but then I realized that I think it's just my body saying "I want to relax!!!".  So that's precisely what I'm going to do.  Come April 27th, I'm going to spend three weeks doing nothing in particular.  If it's video games, awesome.  Learning morse code?  Sure!  Playing with <a href="http://en.wikipedia.org/wiki/PIC_microcontroller">PIC</a>s?  Holla!

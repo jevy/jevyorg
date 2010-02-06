@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 71
+layout: post
+title: Memories
+wordpress_url: http://jevy.org/?p=71
+---
+Forgive the inside jokes and memories.  Please add if I've forgotten some.  I always delight in remembering long lost memories:
+
+<ul>
+	<li>Romping with my dad in the family room in our bungalow in Winnipeg</li>
+	<li>Trying to learn to the skate and holding on to the edge of the rink and pulling myself around since my instructor was a jerk.  I hated it when I got to the ends with the glass around the edges.  Then I had to actually skate. grrr</li>
+	<li>Coming home at 11pm to jump on ICQ to start a chat with 8 other people who I saw half an hour ago</li>
+	<li>Mad fun at the ton of sweet 16 parties.  All of which probably played Limp Bizkit - Nookie copious amount of times.  AWESSOME.</li>
+	<li>Our fake "COPS" video outside of Anne's place.  I should put that online somehow.  I watched it last year and it's hilarious.</li>
+	<li>First kiss</li>
+	<li>"Nerd Nook"</li>
+	<li>MAST crew + Jay</li>
+	<li>Survivor Trip (Tango 3)</li>
+	<li>James (aledgely) always fixing my computer :P</li>
+	<li>Goldeye and Mario Party nights _all summer_</li>
+	<li>Driving around Orleans for hours after youth group</li>
+	<li>Running for co-pres</li>
+	<li>Leadership camps (ye ye Double-J and Red Birds)</li>
+	<li>2001 grad (not mine) with a crazy party in that boat</li>
+	<li>My short lived clubbing experiences: Cosmos and Willies</li>
+	<li>2002 grad.  Ek-lips was such a stupid idea.</li>
+	<li>Fusion Design and the video that made fun of it in English class.  Still kills me thinking about it</li>
+	<li>The first day I came to <a href="http://www.onlc.org">Newlife</a>.  I was sold and still consider some of these people as family who love me.</li>
+	<li>Hours and hours of listening to Counting Crows - August and Everything After CD.  Wow.  Soo good.</li>
+	<li>My favorite TV shows I watched as a kid: Rescue 911 with Will Shatner, Saved by the Bell, Fresh Prince, Square One, 3-2-1 Connect, K-2000 (Kight Rider in French ;) ), Inspector Gadget, Sesamie Street, JAG, High Incident.  No idea about others</li>
+</ul>
+
+.. I miss the high school days but memories aren't forever.  Just have to cherish them and learn from them.

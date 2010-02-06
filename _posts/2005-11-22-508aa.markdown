@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 171
+layout: post
+title: 508AA
+wordpress_url: http://jevy.org/?p=171
+---
+I'm in my ritual lab at school after finishing a lab early.  Can I feed your stereotype of engineers?
+* The guy diagonally to my left is reading <a href="http://slashdot.org">slashdot</a> and looking at screen shots from video games.
+* Two guys are talking about his cell phone.
+* The guy to my right is reading a newspaper in Chinese.
+* Then there's a bunch of us studying notes online.

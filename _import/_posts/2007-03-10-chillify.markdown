@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 427
+layout: post
+title: Chillify
+wordpress_url: http://jevy.org/?p=427
+---
+Got together with Alex, Brendan and Matt (Stephie and Ginette sorta?).  Hit up the Works, played some <a href="http://en.wikipedia.org/wiki/Supreme_commander">Supreme Commander</a> then hit up some Shogun while watching <a href="http://www.topgear.com/">Top Gear</a>.
+
+<a href="http://www.flickr.com/photos/jevy/416662287/" class="tt-flickr"><img src="http://farm1.static.flickr.com/127/416662287_c7494f7f7a_m.jpg" alt="Virgil" border="0" height="160" width="240" /></a><a href="http://www.flickr.com/photos/jevy/416662263/" class="tt-flickr"><img src="http://farm1.static.flickr.com/171/416662263_ec8e38006d_m.jpg" alt="Supreme Commander" border="0" height="160" width="240" /></a><a href="http://www.flickr.com/photos/jevy/416662200/" class="tt-flickr"><img src="http://farm1.static.flickr.com/163/416662200_72ac3ae5f1_m.jpg" alt="The Appetizer" border="0" height="160" width="240" /></a><a href="http://www.flickr.com/photos/jevy/416662165/" class="tt-flickr"><img src="http://farm1.static.flickr.com/154/416662165_37fcc9a20e_m.jpg" alt="Boys at the Works" border="0" height="160" width="240" /></a>    <a href="http://www.flickr.com/photos/jevy/416662338/" class="tt-flickr"><img src="http://farm1.static.flickr.com/123/416662338_7164556537_m.jpg" alt="GAHHH!" border="0" height="160" width="240" /></a>

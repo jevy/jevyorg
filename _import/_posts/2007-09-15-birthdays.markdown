@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 480
+layout: post
+title: Birthdays
+wordpress_url: http://jevy.org/?p=480
+---
+I was just looking through my birthday at <a href="http://en.wikipedia.org/wiki/December_25">Wikipedia</a> and noticed that <a href="http://en.wikipedia.org/wiki/Armin_van_Buuren">Armin Van Buuren</a> and I both of the same birthday!  He's probably one of the top 3 <a href="http://en.wikipedia.org/wiki/Trance_music">Trance</a> producers/DJs  in the world (actually a big deal). Very very cool.

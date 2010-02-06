@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 403
+layout: post
+title: Dream
+wordpress_url: http://jevy.org/?p=403
+---
+.. the rest of us can only dream of such stories.
+
+[youtube]bNF_P281Uu4[/youtube]

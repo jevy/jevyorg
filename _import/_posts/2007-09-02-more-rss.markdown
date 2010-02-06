@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 478
+layout: post
+title: More RSS!
+wordpress_url: http://jevy.org/?p=478
+---
+So Google Reader lets me share stories that I find interesting so if you want to subscribe to that site or just watch it, check it out <a href="http://www.google.com/reader/shared/13655845004066933943">here</a>.

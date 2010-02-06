@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 410
+layout: post
+title: Comments!!!
+wordpress_url: http://jevy.org/?p=410
+---
+I was wondering why people were hating me so much and not posting.  Thanks <a href="http://notwithink.blogspot.com/">Beth </a>for letting me know that it wasn't working.  Ooops!  That's my fault.  Should be fixed.

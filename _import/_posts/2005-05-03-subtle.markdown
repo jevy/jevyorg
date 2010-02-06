@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 64
+layout: post
+title: Subtle
+wordpress_url: http://jevy.org/?p=64
+---
+This is hilarious.  I love subtle humor:  <a href="http://www.flickr.com/photos/wiedmaier/2842106/in/set-72933/">The Seven Gummie Sins</a>.  Envy is hilarious.
+
+<img src="http://photos1.flickr.com/2842106_bccc7c48c2_s.jpg" alt="Gummie Sins" />

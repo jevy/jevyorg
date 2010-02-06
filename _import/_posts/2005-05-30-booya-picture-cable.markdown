@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 76
+layout: post
+title: Booya Picture Cable!
+wordpress_url: http://jevy.org/?p=76
+---
+Sweet!  I just remembered where I put my camera cable so here are a couple of recent pictures.  There are others just not posted here.  Just check the photostream
+
+<div class="flickr-insert"><a href="http://www.flickr.com/photos/jevy/16484489/" rel="bookmark" target="_blank" title="newapt 013"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484489_3f4e0087c5_s.jpg" alt="newapt 013"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/16484554/" rel="bookmark" target="_blank" title="newapt 014"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484554_4f3f736cd7_s.jpg" alt="newapt 014"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/16484585/" rel="bookmark" target="_blank" title="newapt 015"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484585_daf54e9e8a_s.jpg" alt="newapt 015"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/16484609/" rel="bookmark" target="_blank" title="newapt 016"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484609_18d7f676c9_s.jpg" alt="newapt 016"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/16484657/" rel="bookmark" target="_blank" title="newapt 017"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484657_8190a9693b_s.jpg" alt="newapt 017"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/16484737/" rel="bookmark" target="_blank" title="newapt 018"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484737_7aea583377_s.jpg" alt="newapt 018"/></a>&nbsp;<a href="http://www.flickr.com/photos/jevy/16484809/" rel="bookmark" target="_blank" title="newapt 020"><img src="http://jevy.org/wp-content/plugins/flickr-insert/16484809_16f2f88aa0_s.jpg" alt="newapt 020"/></a></div>

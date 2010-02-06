@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 395
+layout: post
+title: Pic-A-Day
+wordpress_url: http://jevy.org/?p=395
+---
+<a class="tt-flickr" href="http://www.flickr.com/photos/jevy/346144010/"><img width="240" height="160" border="0" alt="Black Widow" src="http://farm1.static.flickr.com/157/346144010_aa68ecb463_m.jpg" /></a>
+
+So I'm still trying to figure out how to make this the easiest on myself, but I'm planning on taking a picture EVERYDAY for 2007.  I already have _four_ under my belt, only 361 to go.  I'm hoping this will help me record my life for the year.  I'm going to try to figure out how to automate the posts to flickr/jevy.org/livejournal.  That would make life sweet.
+
+The pictures may not come up every day, but I will certainly try. <a href="http://www.flickr.com/photos/jevy/sets/72157594460179337/">The Flickr album</a>.

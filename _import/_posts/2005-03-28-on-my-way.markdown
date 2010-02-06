@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 47
+layout: post
+title: On my way
+wordpress_url: http://jevy.org/?p=47
+---
+... now I just need to get me-self a job.  Maybe I'll post something deeper later.

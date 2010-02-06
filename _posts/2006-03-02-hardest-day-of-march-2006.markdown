@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 236
+layout: post
+title: Hardest day of March 2006
+wordpress_url: http://jevy.org/?p=236
+---
+<strong>Sorry if this doesn't make sense.  It's mainly for me.</strong>
+<ol>
+	<li>4pm - My family got together with my former pastor and his family today.</li>
+	<li>They talked about their plans</li>
+	<li>My parents talked about how much they learned from them.  They prayed for them.</li>
+	<li>I shared about how I will cherish the four years I have been built into by him.  He cried.  He pleaded that I would not remember him as a sinful man.  I wept.  He said Jesus will never let me down even if he had.  He was a wreck by now.  I wept some more.</li>
+	<li>My brother said how much he has learned in the short time being at the church.</li>
+	<li>They thanked us for coming by and we all hugged and sorta said our goodbyes.</li>
+	<li>They called at 9:45 to say how much us gonig over there meant to them.</li>
+	<li>They leave on Saturday.  Forever :(</li>
+</ol>

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 212
+layout: post
+title: Crazy War Lover
+wordpress_url: http://jevy.org/?p=212
+---
+I need to be clear from my <a href="http://jevy.org/2006/01/28/based-on-a-true-story/">last post</a> as I think I caused some <a href="http://jmaltais36.livejournal.com/357776.html">confusion</a>.  I think me trying to explain myself by using more words just gets me lost.  So I'll try something different.
+<ul>
+	<li>War = Really bad</li>
+	<li>What I saw in Narnia was that the characters had a clear purpose for themselves, I would also like to have a clear purpose.</li>
+	<li>In this search, I am realizing that God has designed each of us to have a purpose from God.</li>
+</ul>
+I think that was all I was trying to say.  Hopefully that makes a bit more sense.

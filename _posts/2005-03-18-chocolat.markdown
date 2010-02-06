@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 43
+layout: post
+title: Chocolat
+wordpress_url: http://jevy.org/?p=43
+---
+<img src="http://ia.imdb.com/media/imdb/01/I/40/90/12m.jpg" alt="Chocolat Title" class="alignleft" />Was home this evening working on an essay.  When I finished the work for the evening, I checked the <a href="http://freeguide-tv.sourceforge.net/">tv guide</a> to see what was on.  <a href="http://ia.imdb.com/media/imdb/01/I/40/90/12m.jpg">Chocolat</a> was such a clever movie.  I found myself... giggling? no.. uhh.. chuckling?  Sure.. chuckling to myself a couple times.  Nothing like seeing someone becoming intranced by chocolate consumption.  Definately worth all the nominations it got.
+
+Went apt. hunting today.  Looking at a 2-bedroom place with my friend Caleb in the Sandy Hill area.  Initially the reaction was pure ghetto, by closer inspection, between the old women walking down the street and the large park with big oak trees in the background it seemed quaint.  We'll see.

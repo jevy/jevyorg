@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 125
+layout: post
+title: NYC
+wordpress_url: http://jevy.org/?p=125
+---
+<a href="http://www.flickr.com/photos/jevy/sets/859515/"><img src="http://jevy.org/random/wp/_39005240_c2cce35db2.jpg" width="225" height="168" alt="" title="" class="centered" /></a>
+
+Finally got the pictures up.  You have to read it as a story starting <a href="http://www.flickr.com/photos/jevy/sets/859515/">here</a>.

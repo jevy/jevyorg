@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 454
+layout: post
+title: Break
+wordpress_url: http://jevy.org/?p=454
+---
+I haven't had a holiday (break?) for nearly two years.  I think my body was just running out of gas resulting in some real fatigue issues.  So for the past week (and the next two), I've been taking it easy doing the following:
+<ul>
+	<li>Learning morse code (again)</li>
+	<li>Playing video games (namely, Battlefield 2142)</li>
+	<li>Driving around my new car</li>
+	<li>Reading</li>
+	<li>Enjoying the sun</li>
+</ul>
+
+Amazingly enough, the days go by quickly.  I can't imagine how I'd feel had I jumped into work right after school.  Whoa.

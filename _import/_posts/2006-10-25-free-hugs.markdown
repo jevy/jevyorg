@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 338
+layout: post
+title: Free Hugs
+wordpress_url: http://jevy.org/?p=338
+---
+... for those of us who don't live on You Tube.  <a href="http://www.youtube.com/watch?v=vr3x_RRJdd4&NR">here</a>.

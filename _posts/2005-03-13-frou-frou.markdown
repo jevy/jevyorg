@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 42
+layout: post
+title: Frou Frou
+wordpress_url: http://jevy.org/?p=42
+---
+Frou Frou - Let Go
+Frou Frou - Must Be Dreaming
+Frou Frou - Hear me Out
+
+All killer songs.  It will get you out of seat.  If not, you will seriously damage your chair.

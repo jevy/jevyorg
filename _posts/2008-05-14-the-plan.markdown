@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 501
+layout: post
+title: The Plan
+wordpress_url: http://jevy.org/?p=501
+---
+So last week I finished planning the honeymoon.  We're off to the lovely Czech Republic!  Prague (cliche) for four nights, Olomouc (a neat, hip town) for another four nights then Karlovy Vary (spa town) for two nights.  July 27th until Aug 8th.  We're both _very_ excited for it.

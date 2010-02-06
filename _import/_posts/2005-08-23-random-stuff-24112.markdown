@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 123
+layout: post
+title: "Random Stuff #24112"
+wordpress_url: http://jevy.org/?p=123
+---
+<ul>
+	<li>Played my last game of ultimate with the "Dirty Little Devils".  We got smoked _hard_.  I was talking to the team later on and some of them had been playing 10 years.  10 years?  Why the heck are you in the worst tier if you've been playing 10 years?  I'm sad that I won't be playing again until the winter.</li>
+	<li>Heading to NYC tomorrow.  Don't have much planned.  I am planning on getting a fake Rollex in China town ;)</li>
+	<li><a href="http://www.imdb.com/title/tt0119008/">Donnie Brasco</a> was on tonight.  Decent movie!</li>
+	<li>Normally I hate <a href="http://www.imdb.com/name/nm0000131/">John Cusack</a> but he really ripped it up in <a href="http://www.imdb.com/title/tt0146882/">High Fidelity</a>.  Watching it a second time I really caught the bigger picture.  Ladies: if you want to know how a guy thinks, this is it.  Don't just look to the superficial "did-you-sleep-with-him-yet?" lines, ask yourself what he's _realllly_ asking.  HA!  Mind games!!!!!!!

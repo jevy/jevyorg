@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 354
+layout: post
+title: Lost
+wordpress_url: http://jevy.org/?p=354
+---
+<div style="text-align: center"><img id="image404" alt="Lost" src="http://jevy.org/wp-content/uploads/2006/11/lost.jpg" /></div>
+Yesterday the semi-season finale.  I cannot get over how crazy this show is.  It's frustrating how they designed it to be addictive where you simply cannot guess anything right.  Why do I like it so much despite this?  Good stinking question.  If you don't keep up with the show -- don't start.  You need to watch _every episode_ to know what the crap is going on.
+
+Very very well done show though if you have days on end to catch up.  Mind you, it's only back in February.

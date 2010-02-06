@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 303
+layout: post
+title: My Tube
+wordpress_url: http://jevy.org/?p=303
+---
+I just changed my flat on my bike and I feel kinda handy.
+
+.. I just feel dumb about taking an hour to realize that the valve wasn't opened properly.  Oops!

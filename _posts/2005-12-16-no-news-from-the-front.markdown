@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 186
+layout: post
+title: No News from the Front
+wordpress_url: http://jevy.org/?p=186
+---
+Not much going on.  No news is good news?  Time to throw the studying into high gear though.
+
+Two good sites:
+<ul>
+	<li><a href="http://www.microsoft.com/canada/smallbiz/vogoffers/timhortons/default.mspx">Free $5 Tim Hortons gift certificate</a> (if you have a legal copy of Windows)</li>
+	<li><a href="http://cuteoverload.com/">Cute Overload</a> (I like the dog with the ducklings chasing it.  They're going to have real identity issues.)</li>
+</ul>

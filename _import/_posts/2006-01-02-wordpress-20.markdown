@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 196
+layout: post
+title: Wordpress 2.0
+wordpress_url: http://jevy.org/?p=196
+---
+Just upgraded my website to Wordpress 2.0.  Wow, are these guys ever quick.�  Very nicely laid out and tons of new features.  Had to install a new <a href="http://ebroder.net/?page_id=72">Livejournal Crossposting</a> plugin that should be working (that is, if you're reading this on LJ ha).
+
+In other news, the One Year Bible started today.  I got the website setup last week at <a href="http://oyb.jevy.org">oyb.jevy.org</a> (I was too cheap to buy a new domain).  It's not to late to join in and read the bible in a year!  15 minutes a day. Really! So come on out and particiate in some chat about what we've all read.

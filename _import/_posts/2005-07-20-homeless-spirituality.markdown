@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 100
+layout: post
+title: Homeless Spirituality
+wordpress_url: http://jevy.org/?p=100
+---
+So we have a really informal bible study every Monday during the summer.  It was put together for those who are still in town and want to connect with other Christian university folk.  So anyways, we wanted to try something different so we made sandwiches, got briefed from our Social Worker friend on what to expect and went out to chill with the homeless!  Our intention was not to convert or whatever but to simply show them God's love and hear where they're at spiritually
+
+We paired off and had no idea how we were going to start things.  We found a group of people sitting under a tree in Major Hill park and asked if we could sit and chat.  Most were probably 16-20ish.  We talked about all kinds of things.  Where they're from, what their plans are etc.  We came to spirituality and we were both quite surprised that they had some really thought out answers.  They were so open and interested in my beliefs and would ask all kinds of questions.  I think most people think they know everything there is to know even if you don't profess to be a Christian so it's sometimes difficult to give a different perspective that people have never thought about before.
+
+Anyways, it was a mind opening experience and it's fun getting pushed out of the comfort zone.  Lates!

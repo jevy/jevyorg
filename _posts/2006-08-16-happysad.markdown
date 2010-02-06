@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 313
+layout: post
+title: Happy/Sad
+wordpress_url: http://jevy.org/?p=313
+---
+Work is done on Friday.  This makes me happy/sad.
+
+I really miss the <a href="http://www.canada.com/ottawacitizen/index.html">Ottawa Citizen</a>.  I <strike>hate</strike> strongly dislike this <a href="http://www.canada.com/nationalpost/index.html">National Post</a> stuff... and don't tell me it's the same paper either.

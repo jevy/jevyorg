@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 50
+layout: post
+title: Zap
+wordpress_url: http://jevy.org/?p=50
+---
+<ul>
+	<li>Everything zaps me!  Close the car door (zap!) x2, pick up my keys from the ground.. zap!  Man!  Good thing clouds aren't forming</li>
+	<li>Finished exam 1/4 today</li>
+	<li>Canada has the second largest high-speed/capita in the world after Korea.  Source: IEEE Communications (April)</li>
+ 	<li>I am ashamed to say I'm caught up in all the Lost episodes.  Took less than a week to watch 20 episodes :P</li>
+</ul>

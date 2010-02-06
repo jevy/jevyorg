@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 166
+layout: post
+title: Revival
+wordpress_url: http://jevy.org/?p=166
+---
+Oh boy!  Internet's back..
+
+.. turns out my server got hacked.  That hasn't happend since grade 10 or something.  Anyways, Jevy.org is back but I've gotta lock things down better.
+
+I've got some FUN videos to post.. for another time perhaps.

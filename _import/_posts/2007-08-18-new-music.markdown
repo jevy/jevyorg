@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 475
+layout: post
+title: New Music?
+wordpress_url: http://jevy.org/?p=475
+---
+So what do you do to find new music?  There have been lots of new ways to do it lately.  Some have worked for me, some not so much:
+<ul>
+	<li><a href="www.pandora.com/">Pandora</a> and <a href="http://www.last.fm/user/jmaltais/">last.fm</a> - These adapt to your listening habits with the hope that you'll find something new that is similar to what you listen to already.  I personally use last.fm as it links in with my iPod and iTunes.  Pandora is a website but no longer available in Canada due to copyright garbage.</li>
+	<li>Podcasts - I have a couple that I try to keep up with.  Probably the only one I do often is <a href="http://www.daveslounge.com/">Dave's Lounge</a>.  I really have to be in a particular mood to listen to this stuff but is spot on when I am.  Another one is the CBC Radio 3's track of the day <a href="http://www.cbcradio3.com/podcast/trackoftheday/">podcast</a>.  These are great options as the music comes to you (effectively)!  Don't have to go looking.  To find some for yourself, go find the podcasts from within iTunes.</li>
+	<li>DJ Mixes - This doesn't work for most genres but for Trance and Dance it does.  Downloading the seasonal <a href="http://en.wikipedia.org/wiki/Trance_music">trance</a> mixes from <a href="http://forums.generationtrance.com/">Generation Trance</a> seems to be working out pretty well!  Lately they've put more quantity than quality into their mixes results in lots of mediocre CDs.  The great thing?  These mixes are free!</li>
+	<li>Forums - If you find a forum with your tastes, it can be a great source.  Just see which songs people are talking about most and sample them online.</li>
+	<li>Radio - Really hit and miss.  As I prefer dance, there's not much good stuff on the radio.  Finding niche shows is probably best.  Energie has nightly house shows (house ain't my favorite thing but it's closer) and CKCU FM (Carleton's station) has a great Trance show called the Deep Blue every Friday night from midnight to two am.  I usually only listen to it on the way home after a night out.</li>
+</ul>
+
+How do you get new music?  Help a brotha out?

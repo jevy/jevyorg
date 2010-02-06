@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 59
+layout: post
+title: I love
+wordpress_url: http://jevy.org/?p=59
+---
+Things I love:
+<ul>
+	<li>... sliding on hardwood in new socks</li>
+	<li>... writing my last exam and feeling good about it</li>
+	<li>... talking to people about spiritual stuff and them being genuinely interested in my thoughts and if those Christian stereotypes are true</li>
+	<li>... and cold pillow, a cold room and really warm covers</li>
+	<li>... walking home late at night with no cars on the road</li>
+	<li>... cold beer with friends at a busy pub</li>
+	<li>... having my bus pull up just as I'm walking to it.  Waiting = sucky</li>
+	<li>... rediscovering a CD that you hadn't listened to in years</li>
+	<li>... people who think it's cool that I don't get drunk and still want me to come along</li>
+	<li>... finding a new piece of killer software that is: a) free b) doesn't slow down your computer!!!</li>
+	<li>... making a new friend that you just CLICK with</li>
+	<li>... finding a new verse that you're like: "Shoot!  That's perfect!" and is exactly what you needed for that moment</li>
+	<li>... a song that brings back fond memories</li>
+	<li>... getting better in a class than expected (!)</li>
+	<li>... finding out I just got blocked.. orrrr not so much</li>
+	<li>... popcorn smothered in a whole lot of butter and salt.</li>
+	<li>... a random "howdy!" phone call</li>
+	<li>... a <a href="http://www.imdb.com/title/tt0335266/">solid</a> <a href="http://www.imdb.com/title/tt0266987/">movie</a></li>
+	<li>... bedtime</li>
+	<li>... a killer beer</li>
+	<li>... the takeoff</li>
+	<li>... <a href="http://www.imdb.com/title/tt0098844/">Law & Order</a></li>
+	<li>... cute girls</li>
+	<li>... traveling and becoming immersed in the culture, food and lifestyle</li>
+</ul>
+
+That's all I got right now.

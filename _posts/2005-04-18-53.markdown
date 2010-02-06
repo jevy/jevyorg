@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 54
+layout: post
+title: ?!?!?!?!
+wordpress_url: http://jevy.org/?p=54
+---
+Eventough heavy drinking is not really one of my traits.. I guess it inferred it was since I said a great night was going to a cozy pub with beer.
+
+<table width=400 align=center border=1 bordercolor=black cellspacing=0 cellpadding=2>
+<tr><td bgcolor=#66CCFF align=center>
+<font face="Georgia, Times New Roman, Times, serif" style='color:black; font-size: 14pt;'>
+<b>Your Inner European is Irish!</b></font></td></tr>
+<tr><td bgcolor=#FFFFFF>
+
+<center>
+<img src=http://www.quizdiva.net/bt/european/irish.jpg>
+</center>
+
+<font color="#000000">
+
+
+Sprited and boisterous!
+
+You drink everyone under the table.</font></td></tr></table>
+
+<div align="center">
+<a href="http://www.blogthings.com/whosyourinnereuropeanquiz/">Who's Your Inner European?</a>
+</div>

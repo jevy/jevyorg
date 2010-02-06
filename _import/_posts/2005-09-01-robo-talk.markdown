@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 127
+layout: post
+title: Robo Talk
+wordpress_url: http://jevy.org/?p=127
+---
+<img src="http://jevy.org/random/wp/IMG_2312small.jpg" width="250" height="188" alt="" title="" class="centered" />
+
+Finally got the video up and running.  KICK BUTT BABY!!  Sing me all your praises below.  Just kidding.  I am pretty content with how they turned out though <a href="javascript:playFlvVideo('Robot Demo')">Robot Demo</a>.  As always, you have to launch it from jevy.org or just go to the <a href="http://jevy.org/videos">videos</a> section.

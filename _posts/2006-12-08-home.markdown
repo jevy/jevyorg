@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 373
+layout: post
+title: Home
+wordpress_url: http://jevy.org/?p=373
+---
+Someone once said "Home is where my mom is".  I think that sounds about right.  HA!

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 192
+layout: post
+title: PSK31
+wordpress_url: http://jevy.org/?p=192
+---
+<a href="http://jevy.org/random/PSK31.jpg"><img src="http://jevy.org/random/PSK31_thumb.jpg" alt="PSK31 Waterfall" /></a>
+So a (ham) friend came over the other day to lend me one of his radio that's designed exclusively for this mode called <a href="http://en.wikipedia.org/wiki/PSK31">PSK31</a>.  Anyways this radio plugs into your soundcard and does the analog to digital conversion through there then the computer modulates and demodulates.  It's called the SWL PSK-20 and puts out only 2 Watts!  2 WATTS?!  That's like 1/30 the amount that a light bulb puts out.  Anyways, the thing above is the "waterfall" showing all the people that you can hear through your <a href="http://jevy.org/random/ant1.jpg">antenna</a>.  Click on whatever frequency you want to listen to and whazzam!
+
+I've mad 9 contacts (from Cuba and the US) over three days and could obviously get more if I was running a stronger signal.  Anyways, geeky good times.
+
+<strong>Update</strong>: 11:34am.  ARGGHH.  Just started talking with a guy in Belgium but someone started transmitting over top of him.  NOOOO
+<strong>Update</strong>: 11:46am.  WHOA!  Just talked to Walter in Italy?  Wow.. I hope someone else is excited about this but I fear I might just be looking like an idiot lol!

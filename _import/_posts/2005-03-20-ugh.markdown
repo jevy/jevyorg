@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 45
+layout: post
+title: Ugh
+wordpress_url: http://jevy.org/?p=45
+---
+My head is full of things that are up in the air and it pisses me off.  I like it when I can put things aside and look at it and say "okay.. I'm done with you now" or "well done" or "perfect, now you're good to go" or "well, that sucked.. time to move on"..
+
+.. not that these unfinished things are super life changing: jobs, apartment hunting, school, an I Agree With campaign in the fall I'm in charge of that I've been working on for a year (!).  Those types of things.
+
+<div class="flickr-insert"><a href="http://www.flickr.com/photos/jevy/6971318/" rel="bookmark" target="_blank" title="self"><img src="http://jevy.org/wp-content/plugins/flickr-insert/6971318_6bc42d8a65_s.jpg" alt="self"/></a></div>
